@@ -1,7 +1,7 @@
 # Atlantis - Parte I 🐬
 >✅ Concluído
 
-Aplicação web desenvolvida como parte da disciplina **Técnicas de Programação II**, voltada ao gerenciamento de **parques aquáticos**,**clubes** e **hotéis**, permitindo maior organização e controle dos serviços.
+Aplicação web desenvolvida como parte da disciplina **Técnicas de Programação II**, voltada ao gerenciamento de **parques aquáticos**, **clubes** e **hotéis**, permitindo maior organização e controle dos serviços.
 
 ---
 
